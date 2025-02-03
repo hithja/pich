@@ -1,6 +1,6 @@
 {
   "name": "projectmanager",
-  "version": "1.0.0",
+  "version": "0.4.5",
   "description": "For project management",
   "main": "main.js",
   "scripts": {
